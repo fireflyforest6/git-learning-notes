@@ -1,0 +1,17 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# Python虚拟环境
+.venv/
+venv/
+
+# 环境变量和日志
+.env
+*.log
+
+# VS Code配置
+.vscode/
+
+# Windows系统文件
+Thumbs.db
